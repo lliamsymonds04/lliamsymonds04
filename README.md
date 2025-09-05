@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Lliam Symonds 👋
 
-<!--
-**lliamsymonds04/lliamsymonds04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student @ UQ**  
+Currently diving deep into software engineering and AI at The University of Queensland.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C#, TypeScript, Python
+- **Interests:** Machine learning and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Outside the Code
+I love training at the gym.
+
+_Thanks for stopping by! Feel free to check out my projects or connect with me for collaboration._  
