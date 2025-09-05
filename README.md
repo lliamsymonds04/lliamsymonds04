@@ -5,6 +5,7 @@ Currently diving deep into software engineering and AI at The University of Quee
 
 ## 🛠️ Tech Stack
 - **Languages:** C#, TypeScript, Python
+- **Tech:** React, .NET, PyTorch
 - **Interests:** Machine learning and automation
 
 ## 💪 Outside the Code
