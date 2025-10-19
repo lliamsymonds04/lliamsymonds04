@@ -1,4 +1,4 @@
-# Hey, I'm Lliam Symonds 👋
+# Hey, I'm Lliam 👋
 
 ## 🎓 **Computer Science Student @ UQ**  
 Currently diving deep into software engineering and AI at The University of Queensland.
