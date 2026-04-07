@@ -1,6 +1,6 @@
 # Hey, I'm Lliam 👋
 
-## 🎓 **Software Engineer and Automation Developer*
+## 🎓 **Software Engineer and Automation Developer**
 I currently work as an Automation Developer.
 
 Currently I'm making my own game in Godot. This is a gaol of 2026 for me.
